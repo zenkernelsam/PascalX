@@ -75,6 +75,7 @@ MONTHSIZE[9] := 244;
 MONTHSIZE[10] := 274;
 MONTHSIZE[11] := 305;
 MONTHSIZE[12] := 335;
+ELSE
 END;
  WRITE ('Please input a month between in 2017 & 2027 (1 - 12) : ');
  READLN(MONTH);
